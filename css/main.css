@@ -28,13 +28,13 @@ body {
 
 /***** HEADER *****/
 header {
-  height: 1000px;
-  background: url('../img/full-background.png');
+  height: 800px;
+  background: url('../img/hero-speech-bubble.png');
   background-size: cover;
 }
 
 header h1 {
-  color: #BBC085;
+  color: #828282;
   font-family: 'Lora', serif;
   font-size: 36px;
   padding: 65px 0 65px 25px;
@@ -60,7 +60,7 @@ nav ul li a {
 header h2 {
     width: 1000px;
     clear: both;
-    font-family: 'Lora', serif;
+    font-family: 'Gayathri', sans-serif;
     font-size: 72px;
     line-height: 80px;
     color: #9b9b9b;
@@ -68,6 +68,12 @@ header h2 {
 }
 header h2 span {
     color: #2b2b2b;
+}
+
+header p {
+  font-family: 'Lora', serif;
+  font-size: 20px;
+  color: #9b9b9b;
 }
 
 /***** ABOUT *****/
