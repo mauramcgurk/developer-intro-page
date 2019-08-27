@@ -30,7 +30,8 @@ body {
 header {
   height: 800px;
   background: url('../img/hero-speech-bubble.png');
-  background-size: cover;
+  /*****background-size: cover;*****/
+  background-size: 1300px;
 }
 
 header h1 {
